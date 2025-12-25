@@ -1,3 +1,3 @@
 select 
 *
-from {{ source('demo', 'weather') }}
+from {{ source('demo', 'bike') }}
